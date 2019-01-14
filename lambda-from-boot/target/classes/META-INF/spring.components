@@ -1,0 +1,5 @@
+#
+#Mon Jan 14 12:49:28 IST 2019
+com.lambda.controller.MainController=org.springframework.stereotype.Component
+com.lambda.controller.DynamoService=org.springframework.stereotype.Component
+com.lambda.LambdaApplication=org.springframework.stereotype.Component
